@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "IPC Smart Life Mini-Player",
+  "version": "1.0",
+  "description": "Picture-in-Picture functionality for IPC webcam streams",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting",
+    "documentPictureInPicture"
+  ],
+  "host_permissions": [
+    "*://*.ismartlife.me/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.ismartlife.me/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

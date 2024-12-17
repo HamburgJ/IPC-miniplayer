@@ -1,0 +1,8 @@
+{
+  "name": "ipc-smart-life-promo",
+  "version": "1.0.0",
+  "description": "Promotional image generator for IPC Smart Life Mini-Player",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+} 

@@ -11,10 +11,6 @@ A Chrome extension that adds Picture-in-Picture (PiP) functionality to IPC Smart
 - 🔒 Privacy-focused with no data collection
 - ⚡ Lightweight and browser-based operation
 
-## Installation
-
-**Currently pending Chrome Web Store approval**
-
 ## How to Use
 
 1. Navigate to your IPC Smart Life camera dashboard

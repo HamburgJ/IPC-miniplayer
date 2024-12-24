@@ -2,6 +2,8 @@
 
 A Chrome extension that adds Picture-in-Picture (PiP) functionality to IPC Smart Life camera streams, allowing you to keep an eye on your camera feeds while working in other tabs.
 
+[Download Now from the Chrome Web Store](https://chromewebstore.google.com/detail/ipc-smart-life-mini-playe/nenhfjfmjapdimgjfnmambljkbjieanl)
+
 ## Features
 
 - 🎯 One-click Picture-in-Picture mode for camera streams
